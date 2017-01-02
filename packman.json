@@ -1,4 +1,4 @@
 {
 	"name": "adic",
-	"export": "src/Assets/Scripts"
+	"export": "src/Assets/Adic/Scripts"
 }
